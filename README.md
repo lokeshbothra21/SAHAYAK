@@ -1,2 +1,2 @@
 # SAHAYAK
-Fundraising Platform
+Blood and Organ donation Management System
