@@ -1,0 +1,93 @@
+.th{
+    color:black;
+    
+}
+.th1{
+    background-color:#961e1b;
+    padding: 15px;
+    text-align: left;
+    margin-left: 100pc;
+     column-span: 3;
+   color: white;
+  
+}
+
+  
+.td{
+    color: #961e1b;
+    padding: 15px;
+    font-weight: bold;
+     text-align: left;
+}
+.img1{
+         float: left;
+         width: 100%;
+    }
+.table{
+    border-width: "1px";
+    }
+
+#mydiv{
+    float: left;
+    width: fit-content;
+    margin-left: 25px;
+}
+
+.two{
+    float: right;
+    width: 650px;
+    margin-top: 20px;
+   /* margin-right: 55px;*/
+}
+
+.footer{
+    position:sticky;
+   
+    display: flex;
+    /* margin-top: 5vh; */
+}
+.info{
+    flex: 33.33%;
+    padding: 5px;
+    
+    margin-left: 10%;
+}
+p{
+    font-size: 2.5rem;
+}
+.abo{
+    font-weight: bold;
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 80px;
+    color: #961e1b;
+    font-weight: bold;
+    
+}
+.text{
+    color: red;font-weight: bold;font-size: 3.5rem;text-align: center;
+}
+
+.flexbox-container 
+{    display: flex;    flex-direction: row;}
+
+#wholeblood
+{
+    
+   display: flex;    flex-direction:row;
+
+}
+.info1{
+    
+    border: 2px black;
+    border-radius: 10px;
+     color: black;
+  
+   font-size: 20px;
+    float:center;
+}
+.para{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}

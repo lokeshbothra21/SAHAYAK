@@ -1,0 +1,18 @@
+.panel-heading {
+  background-image: none;
+  background-color: #bf2229;
+  color: white;
+}
+
+.panel {
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+  box-shadow: 0 1px 1px rgb(0 0 0 / 5%);
+}
+
+.panel-danger {
+  border-color: #ebccd1;
+}

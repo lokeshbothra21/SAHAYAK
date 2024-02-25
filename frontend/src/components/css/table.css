@@ -1,0 +1,38 @@
+.th {
+  color: black;
+}
+.th1 {
+  background-color: #961e1b;
+  padding: 15px;
+  text-align: left;
+  margin-left: 100pc;
+  column-span: 3;
+  color: white;
+}
+
+.btd {
+  color: #961e1b;
+  padding: 15px;
+  font-weight: bold;
+  text-align: left;
+}
+.img1 {
+  float: left;
+  width: 100%;
+  margin-top: 75px;
+}
+.table {
+  border-width: "1px";
+}
+
+#mydiv {
+  float: left;
+  width: fit-content;
+  margin-left: 25px;
+}
+.two {
+  float: right;
+  width: 650px;
+  margin-top: 5px;
+  margin-right: 55px;
+}
